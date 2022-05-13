@@ -1,7 +1,9 @@
 import React from 'react'
+import { Footer } from './Components/Reciclados/Footer'
 
 export const App = () => {
-  return (
-    <div>App</div>
-  )
+  
+  <Footer />
+  
+  
 }
