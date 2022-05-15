@@ -76,11 +76,11 @@ export const Footer = () => {
                     </div>
                 </div>
             </div>
-            <div className="container-fluid text-white" style="background: #061429;">
+            <div className="container-fluid text-white" style={{background: '#061429'}}>
                 <div className="container text-center">
                     <div className="row justify-content-end">
                         <div className="col-lg-8 col-md-6">
-                            <div className="d-flex align-items-center justify-content-center" style="height: 75px;">
+                            <div className="d-flex align-items-center justify-content-center" style={{height: '75px'}}>
                                 <p className="mb-0">&copy; <a className="text-white border-bottom" href="#">Your Site Name</a>. All Rights Reserved.
 
                 
