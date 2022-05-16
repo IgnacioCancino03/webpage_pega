@@ -155,7 +155,7 @@ h6,
     border-color: var(--primary) !important;
 }
 
-@media (max-width: 991.98px) {
+@media (width: 991.98px) {
     .sticky-top.navbar-dark {
         position: relative;
         background: #FFFFFF;
@@ -225,7 +225,7 @@ h6,
     z-index: 1;
 }
 
-@media (max-width: 576px) {
+@media (width: 576px) {
     .carousel-caption h5 {
         font-size: 14px;
         font-weight: 500 !important;
